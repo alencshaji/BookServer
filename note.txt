@@ -1,0 +1,18 @@
+schema   ---- admin,book,user,
+
+
+admin login
+admin add book
+
+
+
+get all book
+
+
+user ac create
+user login  
+
+
+{or = to state multile conditon etiter ine is true
+option == match uppercase lower case
+regex == regular expresion}
